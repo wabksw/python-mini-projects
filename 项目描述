@@ -1,0 +1,100 @@
+1 你好，世界 Hello World Ravi Chavare
+2 JSON 转 CSV JSON to CSV Murilo Pagliuso
+3 随机密码生成器 Random Password Generator Mitesh
+4 Instagram 个人资料信息 Instagram Profile Info Ravi Chavare
+5 在文件中搜索字符串 Search string in Files Mitesh
+6 从网页中获取链接 Fetch links from Webpage Mitesh & Michael Mba
+7 用 Flask 做一个 Todo 应用程序 Todo App With Flask Mitesh
+8 在图像上添加水印 Add Watermark on Images Mitesh
+9 使用 Django 做一个 WishList 应用程序 WishList App Using Django Ravi Chavare
+10 将文件夹拆分为子文件夹 Split Folders into Subfolders Ravi Chavare
+11 下载批量图像 Download bulk images Mitesh
+12 文件中的随机单词 Random word from file Ravi Chavare
+13 电池通知 Battery notification Mitesh
+14 计算年龄 Calculate age Gaodong
+15 文本文件分析 Text file analysis m044de
+16 生成图像片段 Generate image snipets ravi chavare
+17 整理文件系统 Organize file system Mitesh
+18 发电子邮件 Send emails Mitesh
+19 获取网站的IP地址和主机名 Get Ipaddress and Hostname of Website Nuh Mohammed
+20 使用 tqdm 的进度条 Progressbar using tqdm Mitesh
+21 获取图像的元信息 Get meta information of images Gaodong
+22 从视频中捕获帧 Captures Frames from video phileinSophos
+23 在 Windows 中获取 Wifi 保存的密码 Fetch Wifi Saved Password Windows Mitesh
+24 保存给定网站的屏幕截图 Save Screenshot of given Website m044de
+25 不使用行拆分文件 Split files using no of lines phileinSophos
+26 使用密钥对文本进行编码和解码 Encrypt and decrypt text Gaodong
+27 以固定的时间间隔捕获屏幕截图 Captures screenshot at regular interval of time d33pc
+28 创建密码哈希 Create password hash m044de
+29 加密文件和文件夹 Encrypt file and folders Gaodong
+30 十进制转二进制，反之亦然 Decimal to binary and vice versa Alan Anaya
+31 基于 Cli 的 Todo 应用程序 Cli Based Todo Application Audrey Yang
+32 货币转换器 cli 应用程序 Currency Convertor cli app github-of-wone
+33 秒表应用 Stopwatch Application Gaodong
+34 CLI 代理测试器 CLI Proxy Tester Ingo Kleiber
+35 XML 到 JSON 文件转换器 XML to JSON file Convertor John Kirtley
+36 压缩文件和文件夹 Compress file and folders Gaodong
+37 查找 IMDB 电影评级 Find IMDB movie ratings ShivSt
+38 将字典转换为 Python 对象 Convert dictionary to python object Varun-22
+39 将文件移动到按字母顺序排列的文件夹 Move files to alphabetically arranged folders Chathura Nimesh
+40 抓取 Youtube 视频评论 Scrape Youtube video comment Saicharan67
+41 网站汇总 Website Summerization Believe Ohiozua
+42 文字转语音(mp3) Text To speech(mp3) Sergej Dikun
+43 图片格式转换） Image format conversion Ramon Ferreira
+44 从维基百科中保存随机文章 Save random article from wikipedia Rakshit Puri
+45 检查网站连通性 Check website connectivity Shiv Thakur
+46 获取城市天气信息 Fetch city weather information Kushal Agrawal
+47 计算器应用程序 Calculator App Gaodong
+48 合并 Csv 文件 Merge Csv files Kushal Agrawal
+49 获取推文并保存在 csv 中 Fetch tweets and save in csv Kushal Agrawal
+50 使用 googletrans 做一个翻译器 Language Translator using googletrans Ashiqur Rahman Tusher
+51 使用时间段分割视频 Split video using timeperiod Chathura Nimesh
+52 从文件中获取唯一的单词 Fetch unique words from file Rakshit Puri
+53 语音到文本转换器 Speech to text converter Paulo Henrique
+54 设置随机壁纸 Set Random Wallpaper Chathura Nimesh
+55 从图像中查找主色 Find Dominant color from image Mitesh
+56 Ascii 艺术 Ascii art Shiny Akash
+57 合并 Pdf 文件 Merge Pdf Files ShivSt
+58 获取开放端口 Fetch Open Port Kushal Agrawal
+59 将数字转换为单词 Convert Numbers To Words Niraj Shrestha
+60 重启和关闭系统 Restart and Shutdown System Phillibob55
+61 检查网站连通性 Check website connectivity Shiv Thakur
+62 使用 tkinter 的数字时钟 Digital clock using tkinter Aditya Jetely
+63 将图像转换为 PDF Covert Image To Pdf Gaodong
+64 将电子邮件存储在 csv 文件中 Store emails in csv file Shiv Thakur
+65 测试互联网连接 Test Internet Connection Jacob Ogle
+66 XKCD 漫画下载器 XKCD Comics Downloader Aditya Jetely
+67 网站拦截器和解锁器 Website Blocker And Unblocker Phillibob55
+68 获取域 Dns 记录 Fetch Domain Dns Record Aditya Jetely
+69 Python 自动画图 Python-Auto-Draw Tushar Nankani
+70 新闻网站爬虫 News Website Scraper pratik-choudhari
+71 石头剪刀布游戏 Rock Paper Scissors Game Tushar Nankani
+72 Zip 文件提取器 Zip File Extractor Aditya Jetely
+73 执行地理编码的脚本 Script to perform Geocoding Aditya Jetely
+74 蟒蛇碳夹 Python Carbon Clips Ravishankar Chavare
+75 二维码生成器 QR Code Generator Shiv Thakur
+76 递归密码生成器 Recursive Password Generator Erfan Saberi
+77 井字游戏 Tic Tac Toe Erfan Saberi
+78 井字游戏与人工智能 Tic Tac Toe with AI Tushar Nankani
+79 卡通化图像 Cartoonify an Image Bartu Yaman
+80 报价刮板 Quote Scrapper Anandha Krishnan Aji
+81 加载网站的时间 Time To Load Website Aditya Jetely
+82 客户贷款还款预测 Customer Loan Repayment Prediction ART
+83 从维基百科文章生成 Wordcloud Generate Wordcloud from Wikipedia Article Naman Shah
+84 猜数游戏 Number Guessing Game Javokhirbek
+85 将 JPEG 转换为 PNG Convert JPEG to PNG AnuragGupta
+86 电影信息抓取器 Movie Information Scrapper Anandha Krishnan Aji
+87 获取 HTTP 状态码 Fetch HTTP Status Code AkshataJ96
+88 检查闰年 Check Leap Year Hariom Vyas
+89 抓取 Medium 文章 Scrape Medium Articles Naman Shah
+90 黑客新闻挖掘 HackerNews Scrapper Javokhirbek
+91 缩小图像尺寸 Reduce Image Size Vipul Verma
+92 简易视频播放器 Easy Video Player Bartu Yaman
+93 GeeksforGeeks 文章下载器 GeeksforGeeks Article downloader Shiv Thakur
+94 PDF转文本 PDF to Text pi1814
+95 非结构化补充服务数据 Unstructured Supplemenrary Service Data ART
+96 重复文件清除器 Duplicate Files remover Anandha Krishnan Aji
+97 PNG 到 ICO 转换器 PNG to ICO converter weicheansoo
+98 查找 IMDB 评级 Find IMDB Ratings Utkarsh Bajaj
+99 基于终端的刽子手游戏 Terminal Based Hangman Game neohboonyee99
+100 Whatsapp 机器人 Whatsapp Bot urmil89
